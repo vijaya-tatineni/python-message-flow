@@ -1,1 +1,1 @@
-worker: python webhook.py
+web: python webhook.py ${PORT}
